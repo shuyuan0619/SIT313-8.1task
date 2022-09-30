@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+}
+
+.headerSearch {
+  width: 50%;
+  height: 50%;
+  margin: auto;
+}
+
+.headers {
+  text-align: left;
+  display: flex;
+  width: 100%;
+  height: 50px;
+  background-color: yellow;
+  align-items: center;
+}
+
+.headerImage {
+  margin-top: -15px;
+}
+
+.submitButton {
+  height: 30px !important;
+  width: 120px !important;
+  margin-left: 20px !important;
+}
+
+.emailInput {
+  margin-left: 20px !important;
+  width: 500px !important;
+  height: 30px !important;
+}
+
+.postSelector {
+  display: flex;
+  margin-top: 10px;
+  margin-left: 5px;
+  align-items: center;
+}
+
+.SelectedForm {
+  margin-top: 10px;
+  margin-left: 5px;
+  text-align: left;
+}
+
+.formField {
+  display: flex;
+  margin-top: 10px;
+  margin-left: 5px;
+  align-items: center;
+}
+
+.imageUploader {
+  display: flex;
+  margin-top: 10px;
+  margin-left: 5px;
+  align-items: left;
+  flex-direction: row;
+}
+
+.questionSearch {
+  width: 350px;
+  height: 50px;
+}
+
+.questionSearchContainer {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
